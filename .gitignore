@@ -3,6 +3,7 @@
 **/tmp/
 
 # User-defined Ignored Files
+**/.~lock.*#
 **/*.bak.*
 **/*.docx
 **/*.old
