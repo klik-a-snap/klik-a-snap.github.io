@@ -11,6 +11,9 @@
 docs/sig.png
 requirements.txt
 
+# User-defined Tracked Files
+!docs/LCNHS/22/11/07/TRRC.docx
+
 # Byte-compiled / optimized / DLL files
 **/__pycache__/
 *.py[cod]
