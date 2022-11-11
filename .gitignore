@@ -1,6 +1,7 @@
 # User-defined Ignored Folders
 .history/
 **/tmp/
+docs/LCNHS/22/11/11/og
 
 # User-defined Ignored Files
 **/.~lock.*#
